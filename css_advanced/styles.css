@@ -201,3 +201,52 @@ footer i {
   font-size: 1.5em;
   color: white;
 }
+.membership {
+  text-align: center;
+  background-color: #fff;
+  padding: 60px 20px;
+}
+
+.membership h2 {
+  font-size: 2em;
+  margin-bottom: 40px;
+}
+
+.membership .benefits {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.membership .benefits div {
+  width: 200px;
+  padding: 20px;
+}
+
+.membership img {
+  width: 80px;
+  margin-bottom: 10px;
+}
+
+.membership h3 {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
+
+.membership p {
+  font-size: 0.9em;
+  color: #555;
+}
+
+.membership button {
+  margin-top: 40px;
+  padding: 12px 24px;
+  background-color: #ff5a5f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
