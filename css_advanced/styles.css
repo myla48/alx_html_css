@@ -249,4 +249,33 @@ footer i {
   font-size: 1em;
   cursor: pointer;
 }
+.faq {
+  background-color: #f0f0f0;
+  padding: 60px 20px;
+}
+
+.faq h2 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 40px;
+}
+
+.faq-items {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.faq-item h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.faq-item p {
+  font-size: 0.95em;
+  color: #555;
+  line-height: 1.6;
+}
 
